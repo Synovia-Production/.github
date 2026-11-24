@@ -22,5 +22,5 @@ This organization holds Synovia Digital's production code.
 <p align="center">
   <a href="https://synoviadigital.com"><img src="https://raw.githubusercontent.com/Synovia-Production/.github/main/profile/synovia-digital-logo-plate.png" alt="Synovia Digital" height="60"></a>
   <br>
-  <a href="https://synoviadigital.com">synoviadigital.com</a> · <a href="https://synoviadigital.com/solutions/#analytics">Analytics</a>
+  <a href="https://synoviadigital.com">synoviadigital.com</a> · <a href="https://synoviadigital.com/solutions/#analytics">Analytics</a> · <a href="https://www.synoviasync.com">SynoviaSync</a>
 </p>
